@@ -639,6 +639,14 @@ class MyApp extends StatelessWidget {
 }
 ```
 ### Dokumentasi hasil percobaan pembuatan shopping cart 
+
+✓ Add to cart from product list
+✓ Show cart items dengan quantity
+✓ Update quantity (+/-)
+✓ Remove items from cart
+✓ Display total price correctly
+
+
 <img width="953" height="906" alt="{1F8EEE8C-1890-4AF1-AB50-F09BB4175002}" src="https://github.com/user-attachments/assets/9588dd53-654a-4a63-9f82-edb4d22466e8" />
 
 
@@ -648,4 +656,17 @@ class MyApp extends StatelessWidget {
 
 
 <img width="962" height="916" alt="{B618387A-61C6-4793-9A22-B5DA5646014E}" src="https://github.com/user-attachments/assets/301098fc-b164-490a-9258-840b813eb386" />
+
+
+<img width="943" height="880" alt="image" src="https://github.com/user-attachments/assets/22791f59-3461-40ca-b172-6278ed7400b4" />
+
+
+<img width="961" height="915" alt="image" src="https://github.com/user-attachments/assets/80fb6d53-9ddd-4a95-bb21-eb541d53e3ff" />
+
+
+<img width="955" height="910" alt="image" src="https://github.com/user-attachments/assets/13b37ffd-7dd6-43ff-916d-e2f7bd8a1638" />
+
+
+
+
 

@@ -16,3 +16,5 @@ class CartItem {
   // Calculated property
   double get totalPrice => product.price * quantity;
 }
+```
+### 

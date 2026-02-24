@@ -638,3 +638,11 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+### Dokumentasi hasil percobaan pembuatan shopping cart 
+<img width="953" height="906" alt="{1F8EEE8C-1890-4AF1-AB50-F09BB4175002}" src="https://github.com/user-attachments/assets/9588dd53-654a-4a63-9f82-edb4d22466e8" />
+
+
+<img width="957" height="906" alt="{F34AC3EC-0116-49E2-9947-832AB0B8351E}" src="https://github.com/user-attachments/assets/b9e8e96d-f508-441f-ab58-e3a74f1b14eb" />
+
+
+
